@@ -1,6 +1,7 @@
 {
 	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Amaechi Chinazo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,5 +13,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Amaechi Chinazo",
+	
 }
